@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on projects related to web development
 - 🤔 I’m looking for help with using MongoDB with Nextjs
 - 💬 Ask me about React, Typescript, Styled Components
-- 📫 How to reach me: LinkedIn - #soumya
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/soumya-chalakkal-60885246/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am afraid of heights, still I am an avid hiker
   
