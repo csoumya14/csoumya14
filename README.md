@@ -7,5 +7,5 @@
 - 💬 Ask me about React, Typescript, Styled Components
 - 📫 How to reach me: [Email](soumyachalakkal@gmail.com) 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am afraid of heights, still I am an avid hiker
+- ⚡ Fun fact: I am afraid of heights yet I am an avid hiker
   
